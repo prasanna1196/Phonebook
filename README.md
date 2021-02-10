@@ -1,8 +1,8 @@
 # Contact Keeper
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my React course on Udemy.
+> Full stack MERN contact manager with React hooks, context & JWT authentication. Part of udemy 'React front to back' course.
 
-This is the full app. The API can be found [here](https://github.com/bradtraversy/contact_keeper_api) with documented endpoints
+The **deployed version** can be found **[here](https://mysterious-cove-86101.herokuapp.com)** .
 
 ## Usage
 
@@ -15,7 +15,7 @@ npm client-install
 
 ### Mongo connection setup
 
-Edit your /config/default.json file to include the correct MongoDB URI
+Edit your /config/default.json file to include the correct MongoDB URI and jwtSecret
 
 ### Run Server
 
@@ -24,4 +24,5 @@ npm run dev     # Express & React :3000 & :5000
 npm run server  # Express API Only :5000
 npm run client  # React Client Only :3000
 ```
-"# Phonebook" 
+
+"# Phonebook"
