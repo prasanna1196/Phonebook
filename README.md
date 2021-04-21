@@ -1,6 +1,6 @@
 # Contact Keeper
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication. Part of udemy 'React front to back' course.
+> Full stack MERN contact manager with React hooks, context & JWT authentication.  
 
 The **deployed version** can be found **[here](https://mysterious-cove-86101.herokuapp.com)** .
 
